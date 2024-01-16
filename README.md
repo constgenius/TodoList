@@ -4,4 +4,6 @@ The "Build a Todo List App" tutorial is designed for JavaScript beginners, provi
 
 By following this guide, beginners can gain practical insights into JavaScript development while creating a useful and interactive application. The Todo List App project serves as an ideal starting point for those looking to strengthen their foundational skills and understand how JavaScript can be applied to real-world projects.
 
+Youtube Tutorial Link: https://youtu.be/f-x2E68JH_4
+
 ![Todo List](images/TodoList.png)
